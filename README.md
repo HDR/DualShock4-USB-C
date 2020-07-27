@@ -42,6 +42,8 @@ Castellated Holes: No
 
 1x Red/Blue 4 pin SMD LED (Hard to find, get from cheap chinese USB board, 2 0603 LED's can also be used)
 
+1x Type-C-31-M-12
+
 
 ## Images
 
