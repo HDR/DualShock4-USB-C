@@ -41,3 +41,10 @@ Castellated Holes: No
 2x 5.1K 0603 Resistor (only for Type C to Type C connection)
 
 1x Red/Blue 4 pin SMD LED (Hard to find, get from cheap chinese USB board, 2 0603 LED's can also be used)
+
+
+## Images
+
+![](Front.png)
+
+![](Back.png)
