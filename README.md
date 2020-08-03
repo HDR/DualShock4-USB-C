@@ -22,9 +22,9 @@ PCB Thickness: 0.8
 
 PCB Color: Any
 
-Surface Finish: ENIG-RoHS
+Surface Finish: Any
 
-Gold Fingers: Yes (45° chamfered border)
+Gold Fingers: No
 
 Castellated Holes: No
 
