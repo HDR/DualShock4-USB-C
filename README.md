@@ -31,7 +31,7 @@ Castellated Holes: No
 
 **PCBWay:**
 
-[JDS-001/JDS-011](https://www.pcbway.com/project/shareproject/DualShock4_USB_Type_C_[JDS_001_JDS_011].html )
+[JDS-001/JDS-011](https://www.pcbway.com/project/shareproject/DualShock4_USB_Type_C_[JDS_001_JDS_011].html)
 
 
 ## BOM
